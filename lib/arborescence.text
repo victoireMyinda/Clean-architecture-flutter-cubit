@@ -1,0 +1,19 @@
+lib/
+|-- core/
+|   |-- error/
+|   |-- usecases/
+|-- features/
+|   |-- feature_name/
+|       |-- data/
+|       |   |-- datasources/
+|       |   |-- models/
+|       |   |-- repositories/
+|       |-- domain/
+|       |   |-- entities/
+|       |   |-- repositories/
+|       |   |-- usecases/
+|       |-- presentation/
+|           |-- blocs/
+|           |-- pages/
+|           |-- widgets/
+|-- main.dart
