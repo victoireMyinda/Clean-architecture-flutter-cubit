@@ -12,6 +12,7 @@ lib/
 |       |   |-- entities/
 |       |   |-- repositories/
 |       |   |-- usecases/
+|       |   |-- logic/
 |       |-- presentation/
 |           |-- blocs/
 |           |-- pages/
